@@ -1,0 +1,51 @@
+html, body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+}
+
+.container {
+  width: 1110px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 1.32;
+  letter-spacing: 1px;
+  color: #091133;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 3.6rem;
+  line-height: 1.33;
+  color: #091133;
+}
+
+p {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.62;
+  color: #6F7CB2;
+}
+
+.button {
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 1.62;
+  padding: 5px 38px;
+  min-width: 189px;
+  text-align: center;
+  background-color: #111B47;
+  color: white;
+  border-radius: 2px;
+}
+
+.logo {
+  font-weight: 900;
+  font-size: 2.6rem;
+  line-height: 1.46;
+  color: #37447E;
+}

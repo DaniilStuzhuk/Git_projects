@@ -1,0 +1,18 @@
+
+.background {
+    background-image: url(../img/man.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    height: 110px;
+
+
+}
+
+.background_name {
+    margin-left: 120px;
+    padding-top: 23px;
+}
+
+.background_text {
+    margin-left: 120px;
+}

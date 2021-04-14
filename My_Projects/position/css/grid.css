@@ -1,0 +1,25 @@
+.grid {
+    display: grid;
+    grid-template-columns: 100px 200px;
+    grid-template-rows: 100px 20px;
+    grid-gap: 18px;
+    grid-template-areas: "img name"
+                         "img work"
+
+}
+
+.grid_img{
+    grid-area: img;
+}
+
+.grid_name{
+    grid-area: name;
+}
+
+.grid_work{
+    grid-area: work;
+}
+
+.grid_text{
+    padding-top: 21px;
+}

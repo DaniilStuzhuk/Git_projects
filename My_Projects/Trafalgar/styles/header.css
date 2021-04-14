@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 84px;
+    padding-top: 60px;
+
+}
+
+.header_logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 12px;
+
+}
+
+.logo_text{
+    margin-left: 12px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 1.25;
+}
+
+.nav_list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_list li{
+    padding-right:40px ;
+}
+
+.nav_list li:last-child{
+    padding-right:0;
+
+}
+.nav_list li a {
+    font-size: 18px;
+    line-height: 1.27;
+    opacity: 0.5;
+}
+.open_page{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.27;
+}

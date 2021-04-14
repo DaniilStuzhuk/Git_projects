@@ -1,0 +1,14 @@
+.women_flower {
+  padding: 117px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-button {
+  margin-bottom: 40px;
+}
+
+.women_flower img {
+  margin-right: 20px;
+}

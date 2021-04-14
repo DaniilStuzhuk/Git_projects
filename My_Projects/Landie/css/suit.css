@@ -1,0 +1,49 @@
+
+.suit_section {
+  padding-top: 238px;
+  background-image: url("../images/background_footer.svg");
+  padding-bottom: 172px;
+  background-size: cover;
+}
+
+.title_center {
+  text-align: center;
+}
+
+.text_center {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 16px;
+  text-align: center;
+}
+
+.price {
+  padding-top: 36px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5rem;
+  line-height: 1.32;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #222F65;
+}
+
+.text_before_button {
+  padding-top: 60px;
+  padding-bottom: 12px;
+  color: #5D6970;
+  font-weight: normal;
+  font-size: 1.4rem;
+  line-height: 1.71;
+  text-align: center;
+}
+
+.button_center {
+  display: flex;
+  justify-content: center;
+}
+
+.button_center a {
+  color: white;
+}

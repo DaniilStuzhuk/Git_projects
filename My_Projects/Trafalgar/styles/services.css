@@ -1,0 +1,47 @@
+.services{
+    width: 1220px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.title{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.65;
+    text-align: center;
+    margin-bottom: 26px;
+
+}
+
+.line{
+    display: flex;
+    width: 65px;
+    height: 2px;
+    background-color: black;
+    margin-left: 48%;
+    margin-top: 26px;
+
+}
+.service_text{
+    text-align: center;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 80xp;
+
+}
+
+.section_list{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1120px;
+
+}
+
+.section_list li{
+}
+
+.box{
+}

@@ -1,0 +1,16 @@
+
+.table_css {
+    display: table;
+    border-collapse: separate;
+}
+
+.table_css_tr {
+    display: table-row;
+}
+
+.table_css_td {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+

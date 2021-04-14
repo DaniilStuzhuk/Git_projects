@@ -1,0 +1,10 @@
+.girl_send_mail {
+  padding: 125px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.girl_send_mail img {
+  margin-right: 20px;
+}

@@ -1,0 +1,88 @@
+.footer {
+  background: #E7ECFF;
+}
+
+.container_footer {
+  padding-top: 62px;
+
+}
+
+.footer_top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer_top p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 1.71;
+  color: #939EA4;
+}
+
+.name {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 2.6rem;
+  line-height: 1.46;
+  color: #37447E;
+}
+
+.button_small {
+  font-family: inherit;
+  width: 110px;
+  background: #111B47;
+  border-radius: 2px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-align: center;
+  color: white;
+}
+
+.button_small a {
+  color: white;
+}
+
+.line::after {
+  margin-top: 40px;
+  content: "";
+  width: 1110px;
+  display: block;
+  height: 1px;
+  background-color: #CDD1D4;
+  border-radius: 1px;
+}
+
+.footer_nav {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 32px;
+}
+
+.nav_bar {
+  display: flex;
+  align-items: center;
+}
+
+.list_item {
+  padding-right: 60px;
+  font-weight: normal;
+  font-size: 1.4rem;
+  line-height: 1.71;
+  color: #929ECC;
+}
+
+.list_item:last-child {
+  padding-right: 0;
+}
+
+.media a {
+  padding-left: 30px;
+}
+
+.media a:first-child {
+  padding-left: 0;
+}

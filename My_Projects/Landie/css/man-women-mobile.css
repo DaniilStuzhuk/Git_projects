@@ -1,0 +1,10 @@
+.man_women_mobile {
+  padding: 92px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.man_women_mobile img {
+  margin-right: 20px;
+}
